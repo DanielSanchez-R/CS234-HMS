@@ -19,3 +19,7 @@ e.g., jar cvfm App.jar Manifest.txt *.class data.csv
 An Example of changing the programs app name to HotelManagement below instead of default:
 e.g., jar cvfm HotelManagement.jar Manifest.txt *.class data.csv  
 
+5.) Now an executable Jar file will be located in the 'src' folder you can create a shortcut to your desktop for ease of use if you want at this point.
+
+Enjoy!
+
