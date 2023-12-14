@@ -13,7 +13,6 @@ C:\UsersExample\danielExample\Desktop\HMS_Stage4_Final\src <- this is an example
 e.g., javac *java
 
 
-
 4.) After you have compiled the source files using the command javac you can then create the jar file with the terminal command: 
 e.g., jar cvfm App.jar Manifest.txt *.class data.csv       
 An Example of changing the programs app name to HotelManagement below instead of default:
