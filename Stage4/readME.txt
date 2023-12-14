@@ -1,6 +1,8 @@
 Instructions on how to compile and execute .java source files. Note*** Make sure you have JDK installed, you will need it for javac command.
 *NOTE the folder provided has already done these steps to repeat them simply delete the compiled files and repeat these steps.
 *NOTE the default login screen user can be anything justy not empty and the password is enter. For the manager tab inside the program the user is: manager and the password is: enter
+
+
 1.) Open your respective Operating Systems terminal via the Windows 'Start key' or its equivalent on your respective Operating  System.
 e.g., Linux users might use a 'Super key'.
 
